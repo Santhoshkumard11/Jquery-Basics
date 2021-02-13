@@ -1,0 +1,16 @@
+p{
+    font-size:20px;
+    width:200px;
+    color: green;
+    margin:0 10px;
+}
+
+.bg-hovered {
+    background-color:bisque;
+}
+
+.search-word {
+    font-style: italic;
+    text-shadow: 2px 2px pink;
+    font-weight: bolder;
+}
