@@ -1,0 +1,40 @@
+body{
+    font-family: sans-serif;
+}
+table{
+    background-color: #e8dcff;
+    border-collapse: collapse;
+    font-weight: bold;
+}
+
+input
+{
+    background-color: #EFEEB0;
+    text-align: right;
+
+}
+
+.sum{
+
+    color: #174C68;
+    font-weight: bold;
+    font-size: 18px;
+    text-align: center;
+}
+
+p{
+    font-size:15px;
+    width:500px;
+    color: blue;
+    margin:0 10px;
+}
+
+.bg-hovered {
+    background-color:bisque;
+}
+
+.search-word {
+    font-style: italic;
+    text-shadow: 2px 2px pink;
+    font-weight: bolder;
+}
