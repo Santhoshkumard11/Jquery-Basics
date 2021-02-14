@@ -1,12 +1,12 @@
-Learn the basic DOM manipulation using JQuery
+## Learn the basic DOM manipulation using JQuery
 
-List of Projects
-- Add two numbers
-- Search Word
+## List of Projects
++ Add two numbers
++ Search Word
     - change bg color on hover
-- ToDo List
++ ToDo List
     - dom manipulation insert html
-- Calculate Score
++ Calculate Score
     - added event listener to all input elements
 
 
